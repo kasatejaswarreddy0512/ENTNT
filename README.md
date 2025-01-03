@@ -4,11 +4,11 @@ This application helps organizations maintain strong professional relationships 
 
 A demonstration server is available at: https://calendarapplicationforcommunicationtracking.vercel.app/
 
-#Features
+# Features
 
 Admin Module: For setting up companies and communication parameters. User Module: For visualizing, managing, and performing communication tasks. Reporting and Analytics Module: Coming soon..
 
-#Setup Instructions
+# Setup Instructions
 
 Follow these steps to set up the application on your local machine:
 
@@ -27,7 +27,7 @@ Start the development server by running: npm start
 The application should now be running at http://localhost:3000.
 
 
-#Deployment Instructions
+# Deployment Instructions
 
 To deploy the Communication Tracking Calendar Application using Vercel, follow these steps:
 
@@ -45,11 +45,11 @@ Monitor the progress in the Vercel dashboard. Once the deployment is complete, I
 
 Click on the provided URL to view our deployed Communication Tracking Calendar Application.
 
-#Application Functionality
+# Application Functionality
 
 Admin Module: Admin can set up new companies, define communication parameters, and manage user access. User Module: Users can log interactions, set reminders for future communications, and view a history of past engagements. Reporting and Analytics Module: Coming soon...
 
-#Limitations
+# Limitations
 
 The application currently does not support multi-language functionality. Reporting features are optional and may require additional configuration. User authentication is basic and may need enhancements for production use.
 
